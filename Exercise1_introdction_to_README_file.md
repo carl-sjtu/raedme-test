@@ -1,7 +1,7 @@
 
-Question:What is a README file?What should a README file contain?;
-Answer:;
-The first source:;
+Question:What is a README file?What should a README file contain?
+Answer:
+The first source:
 'A README is a text file that introduces and explains a project.it contains information that is commonly required to understand what the project is about'
 exerpted from website https://www.makeareadme.com/
 The second source:
